@@ -13,6 +13,7 @@ whether Mark has a higher BMI than John.
 Test data:
 § Data 1: Marks weights 78 kg and is 1.69 m tall. John weights 92 kg and is 1.95 m tall.
 § Data 2: Marks weights 95 kg and is 1.88 m tall. John weights 85 kg and is 1.76 m tall. */
+
 // test one
 // const markHeight = 1.69;
 // const markMass = 78;
